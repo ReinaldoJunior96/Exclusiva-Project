@@ -1,0 +1,6 @@
+$theme-colors: ( "primary": #17d6a6, "danger": #ff4136);
+.bg-nav {
+    background-image: linear-gradient(to right, #17d6a6, #1697be);
+}
+
+@import '../node_modules/bootstrap/scss/bootstrap';

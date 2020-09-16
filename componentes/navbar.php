@@ -20,14 +20,15 @@
                 <li class="nav-item active">
                     <a class="nav-link" href="#">Home <span class="sr-only">(Página atual)</span></a>
                 </li>
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown border-0">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Serviços
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="#">Ação</a>
-                        <a class="dropdown-item" href="#">Outra ação</a>
-                        <a class="dropdown-item" href="#">Algo mais aqui</a>
+                    <div class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="">Isenção</a>
+                        <a class="dropdown-item" href="">Isenção de IPI</a>
+                        <a class="dropdown-item" href="">Inseção de ICMS</a>
+                        <a class="dropdown-item" href="">Inseção de IPVA</a>
                     </div>
                 </li>
                 <li class="nav-item">
@@ -35,6 +36,9 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Quem&nbspsomos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Quem&nbsptem&nbspdireito</a>
                 </li>
                 
             </ul>

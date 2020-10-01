@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
 
 $theme-colors: ("primary": #17d6a6,
-        "secondary": #1697be);
+  "secondary": #1697be);
 .bg-nav {
   background-image: linear-gradient(to right, #17d6a6, #1697be);
 }
@@ -32,4 +32,15 @@ $theme-colors: ("primary": #17d6a6,
   z-index: 1;
 }
 
+@media (max-width: 576px) {
+}
+
+@media (max-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
 @import '../node_modules/bootstrap/scss/bootstrap';

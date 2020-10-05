@@ -31,16 +31,19 @@ $theme-colors: ("primary": #17d6a6,
   position: relative;
   z-index: 1;
 }
-
+// col-xs
 @media (max-width: 576px) {
 }
-
-@media (max-width: 768px) {
+// col-md
+@media (min-width: 576px) {
 }
-
+// col-sm
+@media (min-width: 768px) {
+}
+// col-lg
 @media (min-width: 992px) {
 }
-
+// col-xl
 @media (min-width: 1200px) {
 }
 @import '../node_modules/bootstrap/scss/bootstrap';
